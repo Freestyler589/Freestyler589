@@ -56,7 +56,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: freestyler589
-          plugin_repositories: no
+          plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stars: yes
           plugin_stars_limit: 5
