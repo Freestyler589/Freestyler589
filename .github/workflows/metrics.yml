@@ -15,5 +15,6 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+        with: 
+          config_timezone: America/Chicago
           token: ${{ secrets.METRICS_TOKEN }}
